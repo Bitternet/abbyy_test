@@ -1,0 +1,21 @@
+<units>
+<Category flag = "everyone">
+    <Name>Vehicle</Name>
+    <Children>
+        <Category flag = "everyone">
+            <Name>Byke</Name>
+        </Category>
+        <Category>
+            <Name>Car</Name>
+            <Children>
+                <Category flag = "everyone">
+                    <Name>Sedan</Name>
+                </Category>
+                <Category>
+                    <Name>Coupe</Name>
+                </Category>
+            </Children>
+		</Category>
+    </Children>
+</Category>
+</units>

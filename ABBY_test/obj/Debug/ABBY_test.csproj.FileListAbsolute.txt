@@ -1,0 +1,11 @@
+C:\Users\alexs\source\repos\ABBY_test\ABBY_test\bin\Debug\ABBY_test.exe.config
+C:\Users\alexs\source\repos\ABBY_test\ABBY_test\bin\Debug\ABBY_test.exe
+C:\Users\alexs\source\repos\ABBY_test\ABBY_test\bin\Debug\ABBY_test.pdb
+C:\Users\alexs\source\repos\ABBY_test\ABBY_test\obj\Debug\ABBY_test.csprojAssemblyReference.cache
+C:\Users\alexs\source\repos\ABBY_test\ABBY_test\obj\Debug\ABBY_test.csproj.CoreCompileInputs.cache
+C:\Users\alexs\source\repos\ABBY_test\ABBY_test\obj\Debug\ABBY_test.exe
+C:\Users\alexs\source\repos\ABBY_test\ABBY_test\obj\Debug\ABBY_test.pdb
+C:\Users\alexs\source\repos\ABBY_test\ABBY_test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\alexs\source\repos\ABBY_test\ABBY_test\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\alexs\source\repos\ABBY_test\ABBY_test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\alexs\source\repos\ABBY_test\ABBY_test\obj\Debug\ABBY_test.csproj.CopyComplete

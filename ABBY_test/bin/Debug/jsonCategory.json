@@ -1,0 +1,1 @@
+[{"Category":"Byke","ForAll":true,"ParentCategory":"Vehicle","StringValues":["Cube Aim Pro 29"]},{"Category":"Car","ForAll":false,"ParentCategory":"Vehicle","StringValues":[]},{"Category":"Sedan","ForAll":true,"ParentCategory":"Vehicle.Car","StringValues":["Vaz 2115"]},{"Category":"Coupe","ForAll":false,"ParentCategory":"Vehicle.Car","StringValues":["Subaru BRZ","Mazda MX5"]}]
